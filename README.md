@@ -4,4 +4,5 @@ In syllabification wird damit eine Tabelle gemacht, in der die Silben des Verses
 
 In scansion ist das programm, das mit EM jeder Zeile ein konkretes Pattern zuweist.
 
-In testing sind 150 manuell skandierte zeilen und verschiedene Funktionen, um eine skandierung zu testen und mit anderen zu vergleichen.
+In testing sind 150 manuell skandierte zeilen und verschiedene Funktionen, um eine skandierung zu testen und mit anderen zu vergleichen und ein pdf mit markierten Versfüßen.
+
