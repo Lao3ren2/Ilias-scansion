@@ -432,7 +432,7 @@ kurzem,kur|zem
 kämmt',kämmt'
 lebt',lebt'
 lechzt',lechzt'
-leckerbereiteten,lec|ker|be|rei|te|ten
+leckerbereiteten,le|cker|be|rei|te|ten
 legt',legt'
 leichengewand',lei|chen|ge|wand'
 leinenem,lei|ne|nem
@@ -506,7 +506,7 @@ scharfer,schar|fer
 scharfes,schar|fes
 scharfgespitzt,scharf|ge|spitzt
 scharfspitziger,scharf|spit|zi|ger
-scharfzackigem,scharf|zac|ki|gem
+scharfzackigem,scharf|za|cki|gem
 scharfzahnige,scharf|zah|ni|ge
 scharfzahniger,scharf|zah|ni|ger
 scharrt',scharrt'
@@ -537,8 +537,8 @@ schwarzgeflügelte,schwarz|ge|flü|gel|te
 schwarzgeflügelten,schwarz|ge|flü|gel|ten
 schwarzgeschnäbelten,schwarz|ge|schnä|bel|ten
 schwarzgeschnäbeltes,schwarz|ge|schnä|bel|tes
-schwarzlockige,schwarz|loc|ki|ge
-schwarzlockiger,schwarz|loc|ki|ger
+schwarzlockige,schwarz|lo|cki|ge
+schwarzlockiger,schwarz|lo|cki|ger
 schwarzrinnendes,schwarz|rin|nen|des
 schwarzschauernder,schwarz|schau|ern|der
 schwarzschäumendes,schwarz|schäu|men|des
@@ -713,10 +713,10 @@ abende,a|ben|de
 abließen,ab|lie|ßen
 abydos,a|by|dos
 acheloos,a|che|lo|os
-acker,ac|ker
-ackernden,ac|kern|den
-ackers,ac|kers
-ackergefild,ac|ker|ge|fild
+acker,a|cker
+ackernden,a|ckern|den
+ackers,a|ckers
+ackergefild,a|cker|ge|fild
 adamas,a|da|mas
 adel,a|del
 ader,a|der
@@ -759,8 +759,8 @@ andres,an|dres
 andrenumandren,an|dre|nu|man|dren
 andrerumandrer,an|dre|ru|man|drer
 anemoreia,a|ne|mo|rei|a
-anitzt,a|nitzt
-anitzo,a|nit|zo
+anitzt,an|itzt
+anitzo,an|it|zo
 anteia,an|tei|a
 antheia,an|thei|a
 antilochos,an|ti|lo|chos
@@ -977,7 +977,7 @@ gehüllete,ge|hül|le|te
 gehülleter,ge|hül|le|ter
 gehügelte,ge|hü|gel|te
 genützet,ge|nüt|zet
-geackertem,ge|ac|ker|tem
+geackertem,ge|a|cker|tem
 gehauenen,ge|hau|e|nen
 genießest,ge|nie|ßest
 gerötet,ge|rö|tet
@@ -1052,7 +1052,7 @@ kyparissos,ky|pa|ris|sos
 köranos,kö|ra|nos
 langragenden,lang|ra|gen|den
 laue,lau|e
-leibröcke,lei|bröc|ke
+leibröcke,lei|brö|cke
 lethos,le|thos
 limnoreia,lim|no|rei|a
 lyktos,lyk|tos
@@ -1075,10 +1075,10 @@ nachrasselte,nach|ras|sel|te
 nachrauschte,nach|rausch|te
 nachtobte,nach|tob|te
 nachtrab,nach|trab
-nacken,nac|ken
-nackens,nac|kens
-nackende,nac|ken|de
-nackenden,nac|ken|den
+nacken,na|cken
+nackens,na|ckens
+nackende,na|cken|de
+nackenden,na|cken|den
 oben,o|ben
 obenher,o|ben|her
 obenhin,o|ben|hin
@@ -1178,7 +1178,7 @@ tiefgehöhltes,tief|ge|höhl|tes
 traue,trau|e
 trechos,tre|chos
 tritogeneia,tri|to|ge|nei|a
-trockenen,troc|ke|nen
+trockenen,tro|cke|nen
 trözen,trö|zen
 trözenos,trö|ze|nos
 typhoeus,ty|pho|eus
@@ -1224,8 +1224,8 @@ zwiefachrudernden,zwie|fach|ru|dern|den
 äakidischen,ä|a|ki|di|schen
 äakos,ä|a|kos
 äakos',ä|a|kos'
-äcker,äc|ker
-äckern,äc|kern
+äcker,ä|cker
+äckern,ä|ckern
 ägeus',ä|geus'
 ägis,ä|gis
 ägialeia,ä|gi|a|lei|a
@@ -1422,7 +1422,7 @@ rieten,rie|ten
 knien,knien
 achai'rinnen,a|chai'|rin|nen
 acheloïos',a|che|lo|ï|os'
-ackergefild',ac|ker|ge|fild'
+ackergefild',a|cker|ge|fild'
 ahn',ahn'
 ahnend,ah|nend
 aichaiern,ai|chai|ern
@@ -1748,7 +1748,7 @@ gewölb',ge|wölb'
 gewölbetem,ge|wöl|be|tem
 gewürg',ge|würg'
 geziemts,ge|ziemts
-gezucket,ge|zuc|ket
+gezucket,ge|zu|cket
 gezweig',ge|zweig'
 gieriges,gie|ri|ges
 glaubt',glaubt'
@@ -2220,7 +2220,7 @@ umstürmte,um|stürm|te
 umwend',um|wend'
 umwälz',um|wälz'
 unbiegsame,un|bieg|sa|me
-unerschrockenes,un|er|schroc|ke|nes
+unerschrockenes,un|er|schro|cke|nes
 unerschüttertes,un|er|schüt|ter|tes
 unfreundliches,un|freund|li|ches
 ungeschwächtes,un|ge|schwäch|tes
@@ -2338,8 +2338,8 @@ zerschmettr',zer|schmettr'
 zeug',zeug'
 zieg',zieg'
 zorniges,zor|ni|ges
-zucke,zuc|ke
-zuckenden,zuc|ken|den
+zucke,zu|cke
+zuckenden,zu|cken|den
 zug',zug'
 zung',zung'
 zweifaches,zwei|fa|ches
@@ -2366,7 +2366,7 @@ thestoride,thes|to|ri|de
 darum,da|rum
 thebäos,the|bä|os
 diokles,di|o|kles
-dickicht,dic|kicht
+dickicht,di|ckicht
 apisaon,a|pi|sa|on
 aräthyreens,a|rä|thy|re|ens
 peneleos,pe|ne|le|os

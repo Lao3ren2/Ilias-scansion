@@ -14,6 +14,9 @@ In der Odyssee:
 
 Welche du Trotziger jetzo hegst, da du immer die Stadt durch-
 Irrst, indes die Herde von bösen Hirten verderbt wird!
+
+Blutig entweiht! denn selbst das Eisen ziehet den Mann an! 295
+
 ------------------
 Außerdem in der Ilias hab ich geändert:
 Priamos, Dardalios Enkel, an Rat den Unsterblichen ähnlich;
